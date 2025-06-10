@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"59e603ba3f714f37a8044f4d0061823a","collectionName":"kullanicis","type":"collection"}
